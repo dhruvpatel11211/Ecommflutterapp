@@ -1,6 +1,6 @@
 # immaculateflutterecomm
 
-A new Flutter application.
+An amazon clone with extra features of renting.
 
 ## Getting Started
 
