@@ -1,4 +1,4 @@
-# immaculateflutterecomm
+# flutterecomm
 
 An amazon clone with extra features of renting.
 
